@@ -1,0 +1,1 @@
+[{"letters": ["E", "I", "N", "T", "N", "I", "O", "B", "O"], "words": ["BENTO", "BIT", "BONE", "INN", "NET", "NOTE", "ONION", "ONTO", "TEN", "TIN", "TONE", "TOO"], "score": 50}, {"letters": ["E", "S", "H", "J", "R", "O", "E", "O", "E"], "words": ["HERO", "HERE", "ROSE", "SORE", "SEE", "HORSE", "SHORE", "HOSE", "JEER"], "score": 59}]
